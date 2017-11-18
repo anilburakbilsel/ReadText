@@ -1,0 +1,7 @@
+hello, i am anil burak!
+this is one of the basic programs that i have built to teach programming concepts in java to children who goes to primary school.
+I hope that you enjoy it.
+You can definitely use this to teach how to program.
+best,
+anil
+1029
